@@ -1,0 +1,2 @@
+# LARPGal
+Official LARP Website
